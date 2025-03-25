@@ -24,8 +24,6 @@ How to reach me? Email: ahmadmizannh@gmail.com
 
 #
 
-### 📊 Stats
-![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadmizann&show_icons=true&theme=aura)
 
 ---
 
